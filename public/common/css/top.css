@@ -131,7 +131,7 @@ h2 span { font-size: 18px; font-size: 1.8rem; font-weight: normal; }
   #home #logo { max-width: 280px; }
   #main { position: relative;  padding: 2%; width: 100%; height: 100vh; background: url(../../img/main.jpg) no-repeat 100% top; background-size: cover; }
   #main .cat { width: 80%; height: 18%; }
-  #main .cat h1 { display: block; font-size: 32px; font-size: 3.2rem; text-align: center; }
+  #main .cat h1 { display: flex; font-size: 32px; font-size:4.2rem; text-align: center; justify-content: center;align-items: center; height:100%}
   #main .cat h1 br { display: none; }
   #main .cat .img { display: block; }
   #main .cat .img img { display: none; width: 102px; height: 157px; }
